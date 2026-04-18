@@ -1,0 +1,3 @@
+[submodule "xmcp"]
+	path = xmcp
+	url = https://github.com/xdevplatform/xmcp.git

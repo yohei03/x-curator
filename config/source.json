@@ -1,0 +1,37 @@
+{
+  "lists": [],
+  "search_keywords": {
+    "base": [
+      "LLM agent",
+      "Claude Anthropic",
+      "Cloud Run",
+      "GCP"
+    ],
+    "ja": [
+      "AI エージェント",
+      "LLM"
+    ]
+  },
+  "author_seeds": [
+    "karpathy",
+    "simonw",
+    "GergelyOrosz"
+  ],
+  "trend": {
+    "woeid": 23424856,
+    "enabled": true,
+    "relevance_topics": ["AI", "tech", "cloud", "LLM"]
+  },
+  "thresholds": {
+    "hours": 24,
+    "noise_rate_warn": 0.20,
+    "primary_source_rate_target": 0.20,
+    "min_topic_coverage_rate": 0.15,
+    "trust_score_highlight": 4,
+    "engagement_score_weights": {
+      "like": 1,
+      "retweet": 3,
+      "reply": 2
+    }
+  }
+}
