@@ -2,7 +2,22 @@
   "mcpServers": {
     "xmcp": {
       "type": "http",
-      "url": "http://127.0.0.1:8000/mcp"
+      "url": "http://127.0.0.1:8000/mcp",
+      "autoApprove": [
+        "searchPostsRecent",
+        "getTrendsByWoeid",
+        "getUsersPosts",
+        "getUsersByIds",
+        "getUsersByUsernames",
+        "getUsersMe",
+        "getListsPosts",
+        "getUsersOwnedLists",
+        "getListsMembers",
+        "getPostsByIds",
+        "getPostsQuotedPosts",
+        "getPostsRepostedBy",
+        "getPostsLikingUsers"
+      ]
     }
   }
 }

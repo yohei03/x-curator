@@ -1,11 +1,9 @@
 {
-  "lists": [],
+  "lists": [{ "id": "2045455694711930956", "name": "text", "note": "メインリスト" }],
   "search_keywords": {
     "base": [
       "LLM agent",
-      "Claude Anthropic",
-      "Cloud Run",
-      "GCP"
+      "Claude Anthropic"
     ],
     "ja": [
       "AI エージェント",
